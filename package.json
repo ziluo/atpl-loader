@@ -1,6 +1,6 @@
 {
   "name": "atpl-loader",
-  "version": "0.1.0",
+  "version": "0.2.0-beta",
   "description": "webpack loader for atpl.",
   "main": "index",
   "devDependencies": {
@@ -21,6 +21,6 @@
     "test": "make test"
   },
   "dependencies": {
-    "primer-template": "^1.1.0"
+    "primer-template": "1.2.0-beta"
   }
 }
